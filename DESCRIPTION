@@ -1,0 +1,10 @@
+Package: gwasir
+Title: An extendable package for genome-wide association study
+Version: 0.1.0
+Authors@R: 
+    person("Changtao", "Li", , "changtao_li@stu.scu.edu.cn", role = c("aut", "cre"))
+Description: This package provides a set of models for genome-wide association study (GWAS) analysis. It is designed to be extendable, and users can easily fit new models according to the specific requirements.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
